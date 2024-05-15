@@ -1,2 +1,2 @@
 # EasyBulkTranslator
-Translate all MD files from one directory
+Translate all MD files from one directory from Japanese to english
